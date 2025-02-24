@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bilalmeziane/Desktop/dossier sans titre 6/Informatique/Projet/Meziane_Chiet_Galan_Moisson/21-11",
+      "program": "/Users/bilalmeziane/Desktop/dossier sans titre 6/Informatique/Projet/Meziane_Chiet_Galan_Moisson/21-11/build/Debug/outDebug"
+    }
+  ]
+}

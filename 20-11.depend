@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1700565458 source:c:\users\bilal\desktop\informatique\projet\20-11\main.c
+	"plateau.h"
+
+1700580013 c:\users\bilal\desktop\informatique\projet\20-11\plateau.h
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<stdbool.h>
+	<unistd.h>
+
+1700571257 source:c:\users\bilal\desktop\informatique\projet\20-11\menu.c
+	"plateau.h"
+
+1700579773 source:c:\users\bilal\desktop\informatique\projet\20-11\plateau.c
+	"plateau.h"
+
+1700577625 source:c:\users\bilal\desktop\informatique\projet\20-11\plateau2.c
+	"plateau.h"
+	"plateau.h"
+
+1701005988 source:c:\users\bilal\desktop\informatique\projet\21-11\main.c
+	"plateau.h"
+
+1701033949 c:\users\bilal\desktop\informatique\projet\21-11\plateau.h
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701029882 source:c:\users\bilal\desktop\informatique\projet\21-11\menu.c
+	"plateau.h"
+
+1701033949 source:c:\users\bilal\desktop\informatique\projet\21-11\plateau.c
+	"plateau.h"
+
+1701033949 source:c:\users\bilal\desktop\informatique\projet\21-11\plateau2.c
+	"plateau.h"
+
+1701034269 source:c:\users\bilal\desktop\informatique\projet\21-11\plateau3.c
+	"plateau.h"
+
